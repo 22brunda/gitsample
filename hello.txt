@@ -21,3 +21,5 @@ An element with position: static; is not positioned in any special way; it is al
 
 This <div> element has position: static;
 Here is the CSS that is used:
+I have completed all the css concept
+
